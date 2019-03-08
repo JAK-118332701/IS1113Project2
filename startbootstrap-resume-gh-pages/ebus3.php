@@ -5,6 +5,7 @@
         <link rel="stylesheet" href="styles.css" type="text/css" />
     </head>
     <body>
+        
         <?php
             session_start();
             $totalValue = $_POST['txtTotal'];

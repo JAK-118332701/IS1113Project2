@@ -13,7 +13,7 @@ $_SESSION['txtTotal'] = $totalValue;
         <body>
         <div class="form">
             <form name="intCalc" method="post" action="Ebus3.php">
-        <h1>Shop Calculator</h1>    
+                <center><h1>Shop Calculator</h1></center>    
         <hr/>
         <center>
             <table cellspacing="10">

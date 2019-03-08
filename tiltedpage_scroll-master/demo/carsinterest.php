@@ -6,15 +6,14 @@
         
     </head>
     <body>
-    <div id="heading">
+    
         <center>
             <h1>Cars</h1>
         
         </center>
+    <p>
+        The mechanics of cars interest me as i am interested in combustion and i am interested in how the other systems work in a car
+    </p>
         
-    </div>
-        <div id="paragraph">
-            
-        </div>
     </body>
 </html>

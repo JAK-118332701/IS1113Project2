@@ -1,8 +1,21 @@
 body{
     font-family: verdana;
     font-size: 14px;
+    background-color: teal;
 }
 table{
     border: #1ABC9C;
     border-radius: 10px;
+}
+a:link, a:visited {
+  background-color: blue;
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
 }

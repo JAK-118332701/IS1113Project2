@@ -6,9 +6,9 @@ $totalValue2 = "";
 /*
  * Create a session variable for the mobile number 
  */
-$totalValue = $_POST['txtTotal'];
-$_SESSION['txtName'] = $fullNameValue;
-$_SESSION['txtTotal'] = $totalValue2;
+$totalValue = $_POST["txtTotal"];
+$_SESSION["txtName"] = $fullNameValue;
+$_SESSION["txtTotal"] = $totalValue2;
 
 /**
  * Allocate the mobile number session variable to a text box
@@ -18,7 +18,7 @@ $_SESSION['txtTotal'] = $totalValue2;
 <!DOCTYPE html>
 <html>
     <head>
-        <title>eBusiness 2</title>
+        <title>Personal Details</title>
     </head>
     <body>
         <div class="form">
